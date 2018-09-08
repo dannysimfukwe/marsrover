@@ -1,0 +1,18 @@
+{
+    "name": "dannysimfukwe/marsroverchallenge",
+    "description": "Mars Rover Challenge",
+    "type": "project",
+    "require": {
+        "php": "^7.1",
+        "symfony/console": "^3.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "RoverChallenge\\": "src/RoverChallenge"
+        }
+    },
+    "license": "MIT",
+    "require-dev": {
+        "phpunit/phpunit": "^6.3"
+    }
+}
