@@ -11,6 +11,6 @@ class ErrorHandler
 
     const invalidPosition = "Position of rover is invalid\n";
 
-    const invalidPlateau = "Could not land on plateau properly\n";
+    const invalidPlateau = "Could not create  plateau\n";
 
 }
