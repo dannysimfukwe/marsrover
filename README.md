@@ -39,6 +39,8 @@ Expected Output:
 
 ## Installation
 
+> Clone this repo & ``cd into it``
+
 > ``composer install``
 
 ## Please make sure the console file is executable
